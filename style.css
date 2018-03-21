@@ -1,0 +1,74 @@
+body {
+    background-image: url("images/git2.jpg");
+    background-size: 35rem;
+    font-family: Arial;
+}
+
+.boxSearch {
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 5rem;
+    height: 25rem;
+    background-color: white;
+    border-radius: 1rem;
+}
+
+#inputTextUser {
+    margin-left: 9%;
+    margin-top: 1rem;
+    width: 60%;
+    height: 2rem;
+}
+
+#buttonSearch {
+    width: 20%;
+    height: 2.4rem;
+}
+
+.errorUsCl {
+    background-color: lightcoral;
+    margin-left: 9%;
+    margin-top: 1rem;
+    width: 82%;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.userInfoCl {
+    height: 20rem;
+    margin-left: 9%;
+    margin-top: 1rem;
+    width: 82%;
+    overflow: auto;
+}
+
+.avatarImg {
+    height: 10rem;
+    border-radius: 0.4rem;
+}
+
+.spanUICl {
+    margin-top: -0rem;
+    margin-bottom: -0rem;
+    font-size: 2rem;
+}
+
+.boxImgUserCl {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nameComCl {
+    font-family: "Arial Black";
+    font-size: 1.3rem;
+    font-style: oblique;
+}
+
+.starsCl {
+    display: flex;
+    justify-content: space-between;
+    height: 2rem;
+    align-items: center;
+    border-top: 0.05rem solid black;
+}
